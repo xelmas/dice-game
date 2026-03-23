@@ -11,3 +11,7 @@ Pull the image: `docker pull einsteinium1/dice-game:latest`
 Run locally on port 8080: `docker run -p 8080:80 einsteinium1/dice-game:latest`
 
 Open: http://localhost:8080
+
+## Play
+
+Game is running [here](https://dice-game-o3qr.onrender.com/)
