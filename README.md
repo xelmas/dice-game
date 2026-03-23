@@ -6,8 +6,8 @@ The pig game was built as part of Jonas Schmedtmann's javascript [course](https:
 
 ## How to run
 
-Pull the image: `docker pull einsteinium1/pig-game:latest`
+Pull the image: `docker pull einsteinium1/dice-game:latest`
 
-Run locally on port 8080: `docker run -p 8080:80 einsteinium1/pig-game:latest`
+Run locally on port 8080: `docker run -p 8080:80 einsteinium1/dice-game:latest`
 
 Open: http://localhost:8080
